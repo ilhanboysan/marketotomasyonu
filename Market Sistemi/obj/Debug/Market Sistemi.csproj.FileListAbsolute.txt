@@ -1,0 +1,29 @@
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\Market Sistemi.exe.config
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\Market Sistemi.exe
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\Market Sistemi.pdb
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market Sistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market_Sistemi.Form1.resources
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market_Sistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market Sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market Sistemi.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market Sistemi.exe
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market Sistemi.pdb
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market_Sistemi.AdminKategoriİşlemleri.resources
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market_Sistemi.Form2.resources
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\AForge.dll
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\AForge.Video.dll
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\zxing.dll
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\zxing.presentation.dll
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\AForge.xml
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\AForge.Video.xml
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\zxing.xml
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\bin\Debug\zxing.presentation.xml
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market_Sistemi.GirisEkrani.resources
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market_Sistemi.deneme.resources
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market_Sistemi._YonetimEkrani_Frm.resources
+C:\Users\Lenovo\source\repos\Market Sistemi\Market Sistemi\obj\Debug\Market_Sistemi.Kullanicilar_Frm.resources
